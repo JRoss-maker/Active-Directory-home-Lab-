@@ -43,8 +43,8 @@ Set up VirtualBox hardware & Harddisc, network and settings:  <br/>
   <img src="vbox settings.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the VM to boot and select the ISO file from download folder  <br/>
+<img src="vbox iso boot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
