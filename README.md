@@ -61,8 +61,8 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <br />
 <br />
  Create domain Add new forest  <br/>
-<img src="configure domain.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="configure forest.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="configure forest.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="configure domain.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />
 <br />
   Instal ADDS from Server Manager/ Add Roles <br/>
