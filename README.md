@@ -51,8 +51,9 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <img src="DC password.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- In the DC identify network adapters  <br/>
+ In the DC identify network adapters on the internal adapter assign the Ip adressing  <br/>
 <img src="network adapters .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="IPV4 address .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  Launch the VM to boot and select the ISO file from download folder  <br/>
