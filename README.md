@@ -33,7 +33,7 @@ Download Windows 10: <br/>
 <br />
 <br />
 Create new Virtual Box:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="DC Vbox.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
