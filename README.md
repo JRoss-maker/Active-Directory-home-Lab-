@@ -60,6 +60,19 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <img src="installing ADDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ Create domain Add new forest  <br/>
+<img src="configure domain.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="configure forest.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br />
+<br />
+  Instal ADDS from Server Manager/ Add Roles <br/>
+<img src="installing ADDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  Instal ADDS from Server Manager/ Add Roles <br/>
+<img src="installing ADDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
