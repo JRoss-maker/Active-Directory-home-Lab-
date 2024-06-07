@@ -37,8 +37,8 @@ Create new Virtual Box: File + new  <br/>
 <br />
 <br />
 Set up VirtualBox hardware & Harddisc and settings:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Vbox hardware.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="vbox hard disc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
