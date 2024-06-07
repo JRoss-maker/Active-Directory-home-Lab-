@@ -56,8 +56,8 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <img src="IPV4 address .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Launch the VM to boot and select the ISO file from download folder  <br/>
-<img src="network adapters.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Instal ADDS from Server Manager/ Add Roles <br/>
+<img src="installing ADDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
