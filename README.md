@@ -47,6 +47,18 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <img src="vbox iso boot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ allow Windows server to boot than set up password   <br/>
+<img src="DC password.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Launch the VM to boot and select the ISO file from download folder  <br/>
+<img src="vbox iso boot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Launch the VM to boot and select the ISO file from download folder  <br/>
+<img src="vbox iso boot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
