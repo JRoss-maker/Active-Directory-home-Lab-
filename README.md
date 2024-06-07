@@ -25,7 +25,7 @@ Download VirtualBox: <br/>
 <br />
 <br />
 Download Windows Server:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="download Windows Server.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Download Windows 10: <br/>
