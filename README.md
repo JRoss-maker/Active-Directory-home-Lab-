@@ -1,4 +1,4 @@
-# ActiveDirectoryLab
+![image](https://github.com/JRoss-maker/Active-Directory-home-Lab-/assets/67971410/09a6271d-db47-4d3a-b544-42da8a9be6b7)# ActiveDirectoryLab
 <h1>JWipe - Disk Sanitization</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
@@ -72,8 +72,11 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 
 <br />
 <br />
-  Instal ADDS from Server Manager/ Add Roles <br/>
-<img src="installing ADDS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  Create an Orginizational unit under the new domnain with new user <br/>
+<img src="ou.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="ou admins.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="new user.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="admin new user.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
