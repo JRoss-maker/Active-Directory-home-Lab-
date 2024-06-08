@@ -68,7 +68,7 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
   After restart we now have an Admin account, from start menu select options to create a dedicated admin account <br/>
 <img src="Admin account.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="Adnin1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="Admin account.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="create admin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 <br />
