@@ -85,6 +85,7 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <img src="Screenshot 2024-06-14 154541.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Set up NAT configuration <br/>
 <img src="nat1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="nat2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="nat3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -98,6 +99,7 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <img src="nat11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Configure DHCP <br/>
 <img src="dhcp1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="dhcp2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="dhcp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
