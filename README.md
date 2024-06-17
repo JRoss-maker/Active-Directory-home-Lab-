@@ -85,6 +85,14 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <img src="Screenshot 2024-06-14 154541.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<img src="nat1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="nat2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="nat3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="nat4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="nat5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="nat6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
