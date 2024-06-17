@@ -1,4 +1,4 @@
-![image](https://github.com/JRoss-maker/Active-Directory-home-Lab-/assets/67971410/09a6271d-db47-4d3a-b544-42da8a9be6b7)# ActiveDirectoryLab
+)# ActiveDirectoryLab
 
 
 
