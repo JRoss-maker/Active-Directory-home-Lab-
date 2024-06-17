@@ -141,20 +141,25 @@ Create users with powershell script  <br/>
 Create Client computer  <br/>
 <img src="Client1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="Client2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client3.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Client10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="client20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 <!--
  ```diff
