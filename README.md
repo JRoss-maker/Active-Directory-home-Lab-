@@ -133,15 +133,10 @@ Create users with powershell script  <br/>
 <img src="powershell10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="powershell11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="powershell12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="dhcp12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="dhcp13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="dhcp14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="dhcp15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="dhcp16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="dhcp17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="dhcp18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="dhcp19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img src="powershell13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
