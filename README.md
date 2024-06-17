@@ -120,8 +120,28 @@ Configure DHCP <br/>
 <img src="dhcp18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="dhcp19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create users with powershell script  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="nat8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
