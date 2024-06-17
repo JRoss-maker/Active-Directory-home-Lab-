@@ -116,7 +116,7 @@ Launch the VM to boot and select the ISO file from download folder  <br/>
 <img src="dhcp16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="dhcp17.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="dhcp18.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="nat19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="dhcp19.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
