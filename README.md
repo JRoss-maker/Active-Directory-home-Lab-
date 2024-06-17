@@ -140,7 +140,7 @@ Create users with powershell script  <br/>
 </p>
 Create Client computer  <br/>
 <img src="Client1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="powershell2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Client2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="powershell3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="powershell4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="powershell5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
