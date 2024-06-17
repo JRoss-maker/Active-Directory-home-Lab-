@@ -1,10 +1,10 @@
-)# ActiveDirectoryLab
+# ActiveDirectoryLab
 
 
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a simple walkthrough that showes users how to downloading and creating a virtual enviormwent that consist of a domain controler and clent computer that creates thoudands of users with the use of a simple poweshell script. this simulates a coperate enviorment active directory, with orginizational units, groups and users.
 <br />
 
 
