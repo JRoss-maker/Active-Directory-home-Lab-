@@ -138,6 +138,23 @@ Create users with powershell script  <br/>
 <img src="powershell15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="powershell16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Create Client computer  <br/>
+<img src="Client1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell10.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell11.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell12.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell13.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell14.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="powershell16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <!--
  ```diff
